@@ -1,4 +1,4 @@
-# 
+# Exclusif Blender outils pour Mac OS | Instantané Blender outils pour PC Windows. Avec composition et animation par images clés — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
